@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkqa_playbook=self.webpackChunkqa_playbook||[]).push([[157],{6293:a=>{a.exports=JSON.parse('{"permalink":"/quality-assurance-playbook/blog/tags/docusaurus","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

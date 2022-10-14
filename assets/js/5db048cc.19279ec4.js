@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkqa_playbook=self.webpackChunkqa_playbook||[]).push([[955],{8668:a=>{a.exports=JSON.parse('{"permalink":"/quality-assurance-playbook/blog/tags/hola","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
